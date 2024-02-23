@@ -6,7 +6,7 @@ import EditProduct from "./components/EditProduct";
 import { useMutation, useQueryClient } from "@tanstack/react-query";
 import axios from "axios";
 function App() {
-  const [showDetails, setShowDetails] = useState(19);
+  const [showDetails, setShowDetails] = useState(28);
   const [post, setPost] = useState(null);
   const queryClient = useQueryClient();
   const handleShowDetails = (id) => {
