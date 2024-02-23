@@ -1,14 +1,22 @@
-# React + Vite + TailWindCSS - A Template Repo
+# Get Started
+- clone the git repository
+```
+git clone https://github.com/Shakil57375/CURD_with_Axios_-_tanStack-react-query.git
+```
 
-It is a template repository for you to start a project using React and TailwindCSS. You just need to create a new repository from this template repo by clicking the button at the top right corner of this page.
+- install all the dependencies 
+```
+npm i
+```
 
-## Watch This Video
+- Start the server
+```
+cd server 
+npm start
+``` 
 
-https://www.youtube.com/watch?v=Zk2YJUvfsOA
-
-## Links
-
-- Install Node.js: https://nodejs.org/en
-- Install Vite: https://vitejs.dev/
-- TailwindCSS: https://tailwindcss.com/
-- How to Learn TailwindCSS?: https://www.youtube.com/shorts/BhasK2BPn8c
+- Start the project 
+```
+cd ..
+npm run dev
+```
